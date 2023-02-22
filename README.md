@@ -22,7 +22,7 @@ You may also quickly preview and edit provided chord progressions using [Chords 
 
 ## Tools
 
-- [abc2midi]() – saves ABC notation as MIDI file.
-- [mido2midi]() – executes Mido code block, thus saving a MIDI file.
+- [abc2midi](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb) – saves ABC notation as MIDI file.
+- [mido2midi](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/mido2midi.ipynb) – executes Mido code block, thus saving a MIDI file.
 - chords2midi (coming soon) – saves textual chord progression as MIDI file.
 - [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) – quickly preview/edit textual chord progressions.
