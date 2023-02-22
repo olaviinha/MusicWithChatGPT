@@ -18,8 +18,8 @@ Same as above, but less likely to contain errors.
 Produces a copyable code block that can be executed using the [mido2midi notebook]() (coming soon). Note that you don't have to understand any of the code, all you need to do is copy/paste it.
 
 - `chord progression?`<br>
-Produces textual chord progression that can be converted to MIDI using the [chords2midi notebook]() (coming soon).<br>
-You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv).
+Produces textual chord progression that can be converted to MIDI using the [chords2midi notebook]() (coming soon) or _chords2midi.py_.<br>
+You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) (MIDI export currently disabled due to Heroku discontinuing free tier).
 
 ## Tools
 
