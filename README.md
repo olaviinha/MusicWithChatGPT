@@ -9,7 +9,7 @@ These tips work as addition to your freely formed message to ChatGPT, where you 
 Example message: `Can you write an emotional sci-fi theme`...
 
 - `in ABC notation?`<br>
-Produces a copyable block that can be saved as `whatever.abc` using a text editor, and converted to a MIDI file using the [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb).
+Produces a copyable ABC notation block that can be copy-pasted to [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb), which will convert it to a MIDI file and provide a download.
 
 - `to a MIDI file using Python Mido?`<br>
 Produces a copyable code block that can be copy-pasted directly to [mido2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/mido2midi.ipynb) and executed, saving a MIDI file (providing ChatGPT did it right).<br>
