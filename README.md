@@ -18,7 +18,7 @@ Produces a copyable code block that can be copy-pasted directly to [mido2midi no
 
 - `one-line chord progression?`<br>
 Produces textual chord progression that can be copy-pasted directly to chords2midi notebook (coming soon) and executed, saving a MIDI file.<br>
-You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) (midi export currently offline due to Heroku discontinuin free tier)
+You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) (midi export currently offline due to Heroku's recent discontinuation of free tier)
 
 ## Tools
 
