@@ -1,6 +1,6 @@
 # Music with ChatGPT
 
-Tips and tools for experimenting with writing music with the aid of ChatGPT, with a goal of ending up with MIDI notation.
+Tips and tools for experimenting with writing music with the aid of ChatGPT, with a loose goal of getting MIDI.
 
 ## Message tips
 
