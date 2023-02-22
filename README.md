@@ -23,6 +23,6 @@ You may also quickly previewed and edited chord progressions using [Chords Guru 
 ## Tools
 
 - [abc2midi]() – saves ABC notation as MIDI file.
-- [mido2midi]() (coming soon) – executes Mido code block (saving as MIDI file, if ChatGPT did it right).
-- [chords2midi]() (coming soon) – saves textual chord progression as MIDI file.
+- [mido2midi]() – executes Mido code block, thus saving a MIDI file.
+- chords2midi (coming soon) – saves textual chord progression as MIDI file.
 - [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) – quickly preview/edit textual chord progressions.
