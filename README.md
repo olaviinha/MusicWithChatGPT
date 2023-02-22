@@ -9,13 +9,13 @@ These tips work as addition to your freely formed message, where you ask for any
 Example message: `Can you write an emotional sci-fi theme`...
 
 - `in ABC notation?`<br>
-Produces a copyable block that can be saved as `whatever.abc` using a text editor, and converted to MIDI using the [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb).
+Produces a copyable block that can be saved as `whatever.abc` using a text editor, and converted to a MIDI file using the [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb).
 
 - `using Python Mido?`<br>
-Produces a copyable code block that can be copy-pasted directly to [mido2midi notebook]() (coming soon) and executed, outputting a MIDI file (providing ChatGPT did it right). Note that you don't have to understand any of the code, all you need to do is copy-paste it.
+Produces a copyable code block that can be copy-pasted directly to [mido2midi notebook]() (coming soon) and executed, saving a MIDI file (providing ChatGPT did it right). Note that you don't have to understand any of the code, all you need to do is copy-paste it.
 
 - `one-line chord progression?`<br>
-Produces textual chord progression that can be copy-pasted directly to [chords2midi notebook]() (coming soon).<br>
+Produces textual chord progression that can be copy-pasted directly to [chords2midi notebook]() (coming soon) and executed, saving a MIDI file.<br>
 You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv).
 
 ## Tools
