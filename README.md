@@ -2,9 +2,9 @@
 
 Tips and tools for writing music with the aid of ChatGPT. With a loose goal of getting MIDI.
 
-## Additions to message
+## Additions to Message
 
-These tips work as addition to your freely formed message, where you ask for any musical notation.
+These tips work as addition to your freely formed message to ChatGPT, where you ask for any musical notation.
 
 Example message: `Can you write an emotional sci-fi theme`...
 
