@@ -2,7 +2,7 @@
 
 Tips and tools for experimenting with writing music with the aid of ChatGPT, with a loose goal of getting MIDI.
 
-## Message tips
+## Additions to message
 
 These tips work as addition to your freely formed message, where you ask for any musical notation.
 
