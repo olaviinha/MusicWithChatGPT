@@ -12,11 +12,13 @@ Example message: `Can you write an emotional sci-fi theme`...
 Produces a copyable block that can be saved as `whatever.abc` using a text editor, and converted to a MIDI file using the [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb).
 
 - `using Python Mido?`<br>
-Produces a copyable code block that can be copy-pasted directly to [mido2midi notebook]() (coming soon) and executed, saving a MIDI file (providing ChatGPT did it right). Note that you don't have to understand any of the code, all you need to do is copy-paste it.
+Produces a copyable code block that can be copy-pasted directly to [mido2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/mido2midi.ipynb) and executed, saving a MIDI file (providing ChatGPT did it right).<br>
+**Note:** you don't have to understand any of the code, all you need to do is copy-paste it.
+**Fair warning:** this method is prone to failures (sour code from ChatGPT) and generally sounds like more random notation.
 
 - `one-line chord progression?`<br>
-Produces textual chord progression that can be copy-pasted directly to [chords2midi notebook]() (coming soon) and executed, saving a MIDI file.<br>
-You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv).
+Produces textual chord progression that can be copy-pasted directly to chords2midi notebook (coming soon) and executed, saving a MIDI file.<br>
+You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) (midi export currently offline due to Heroku discontinuin free tier)
 
 ## Tools
 
