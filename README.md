@@ -1,23 +1,23 @@
 # Music with ChatGPT
 
-Tips and tools for experimenting with writing music with the aid of ChatGPT, with a goal of having MIDI notation.
+Tips and tools for experimenting with writing music with the aid of ChatGPT, with a goal of ending up with MIDI notation.
 
-## Query tips
+## Message tips
 
-These tips work as addition to your freely formed query.
+These tips work as addition to your freely formed message, where you ask for any musical notation.
 
-Example query: `Can you write an emotional sci-fi theme`...
+Example message: `Can you write an emotional sci-fi theme`...
 
-- `in ABC notation`<br>
+- `in ABC notation?`<br>
 Produces a copyable block that can be saved as `whatever.abc` and converted to MIDI using the [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb).
 
-- `in ABC notation that can be converted to MIDI using abc2midi`<br>
+- `in ABC notation that can be converted to MIDI using abc2midi?`<br>
 Same as above, but less likely to contain errors.
 
-- `using Python Mido`<br>
+- `using Python Mido?`<br>
 Produces a copyable code block that can be executed using the [mido2midi notebook]() (coming soon). Note that you don't have to understand any of the code, all you need to do is copy/paste it.
 
-- `chord progression`<br>
+- `chord progression?`<br>
 Produces textual chord progression that can be converted to MIDI using the [chords2midi notebook]() (coming soon).<br>
 You may also quickly previewed and edited chord progressions using [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv).
 
