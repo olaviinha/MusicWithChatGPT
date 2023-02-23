@@ -1,12 +1,12 @@
 # Writing music with ChatGPT
 
-Tips and tools for writing music with the aid of ChatGPT. With a loose goal of getting MIDI.
+Tips and tools for experimenting with writing music with the aid of ChatGPT. And with a loose goal of getting it as MIDI.
 
 If you have tips, [please share](https://github.com/olaviinha/MusicWithChatGPT/discussions)!
 
-## Additions to Message
+## Additions to Message ("prompt")
 
-These tips work as addition to your freely formed message to ChatGPT, where you ask for any musical notation. These tips usually result in notation only, producing MIDI with other instruments (than the default piano) seems harder, even if you ask for other instruments, such as drums.
+These tips work as addition to your freely formed message to ChatGPT, where you ask for any musical notation. These tips usually result in notation only, meaning the converted MIDI file will be piano-only. Asking ChatGPT to produce notation with different instruments (such as drums) that would translate to MIDI seems hard and prone to failure so far.
 
 Example message: `Can you write an emotional sci-fi theme`...
 
