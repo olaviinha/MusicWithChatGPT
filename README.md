@@ -1,6 +1,6 @@
 # Writing music with ChatGPT
 
-Tips and tools for experimenting with writing music with the aid of ChatGPT. And with a loose goal of getting it as MIDI.
+Tips and tools for experimenting with writing music with the aid of [ChatGPT](https://ai.com). And with a loose goal of getting it as MIDI.
 
 If you have tips, [please share](https://github.com/olaviinha/MusicWithChatGPT/discussions)!
 
