@@ -14,7 +14,7 @@ Example messages: `Can you write an emotional sci-fi theme `...
 Produces a copyable ABC notation block that can be copy-pasted to [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb), which will convert it to a MIDI file and provide an instant download. So far this is the best method.
 
 - `chord progression?`<br>
-Produces textual chord progression that can be copy-pasted [chords2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/chords2midi.ipynb), which will convert it to a MIDI file and provide an instant download.<br>
+Produces textual chord progression that can be copy-pasted to [chords2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/chords2midi.ipynb), which will convert it to a MIDI file and provide an instant download.<br>
 You may also quickly preview and edit provided chord progressions by copy-pasting them to [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) instead (midi export currently offline).
 
 - `to a MIDI file using Python Mido?`<br>
