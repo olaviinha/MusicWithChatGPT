@@ -8,7 +8,7 @@ If you have tips, [please share](https://github.com/olaviinha/MusicWithChatGPT/d
 
 These tips work as addition to your freely formed message to ChatGPT, where you ask for any musical notation. These tips usually result in notation only, meaning the converted MIDI file will be piano-only. Asking ChatGPT to produce notation with different instruments (such as drums) that would translate to MIDI seems hard and prone to failure so far.
 
-Example messages: `Can you write an emotional sci-fi theme in`...
+Example messages: `Can you write an emotional sci-fi theme `...
 
 - `in ABC notation?`<br>
 Produces a copyable ABC notation block that can be copy-pasted to [abc2midi notebook](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/abc2midi.ipynb), which will convert it to a MIDI file and provide an instant download. So far this is the best method.
