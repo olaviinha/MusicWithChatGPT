@@ -22,7 +22,7 @@ Produces a copyable code block that can be copy-pasted directly to [mido2midi no
 **Note:** you don't have to understand any of the code, all you need to do is copy-paste it.<br>
 **Fair warning:** this method is prone to failures (sour code from ChatGPT) and generally sounds like more random notation.
 
-You may also want to make your request more specific by adding further instructions to your prompt, such as ...`It should be in A major. It should have a verse, a bridge and a chorus.`
+You may also want to make your request more specific by adding further instructions to your prompt, such as ...`It should be in 110 BPM and A major. It should have a verse, a bridge and a chorus.`
 
 ## Tools
 
