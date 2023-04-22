@@ -2,9 +2,7 @@
 
 ---
 
-Usage example with [chords2midi](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/chords2midi.ipynb?force_theme=dark) notebook:
-
-How to use:
+## Usage example with [chords2midi](https://colab.research.google.com/github/olaviinha/MusicWithChatGPT/blob/main/chords2midi.ipynb?force_theme=dark) notebook:
 
 https://user-images.githubusercontent.com/50331907/233775523-2c1ba015-0c15-4bbf-b060-7c4c87647b21.mp4
 
