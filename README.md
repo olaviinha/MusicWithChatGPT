@@ -2,7 +2,7 @@
 
 Tips and tools for experimenting with writing music with the aid of [ChatGPT](https://ai.com), and getting its notations as MIDI files.
 
-See video of example usage [here](https://github.com/olaviinha/MusicWithChatGPT/main/USAGE_EXAMPLE.md).
+See video of example usage [here](https://github.com/olaviinha/MusicWithChatGPT/blob/main/USAGE_EXAMPLE.md).
 
 If you have tips, [please share](https://github.com/olaviinha/MusicWithChatGPT/discussions)!
 
